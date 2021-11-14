@@ -14,12 +14,6 @@ namespace MemoryManagement
         private ArrayPool<byte> byteArrayPool;
         const int maxArraysPerBucket = 10;
 
-        public ByteArrayManagement()
-        {
-            
-        }
-
-
         public void SimulateCreationOfByteArrayPool(int length, int executionCount)
         {
             CreateByteArrayPool(length);
