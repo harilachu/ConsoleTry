@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAggregatorPattern", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventAggregatorTest", "EventAggregatorPattern\EventAggregatorTest\EventAggregatorTest.csproj", "{82349C40-0D08-47ED-B35D-7E3F814F05DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManagedExtensibilityFramework", "ManagedExtensibilityFramework\ManagedExtensibilityFramework.csproj", "{C5A0A019-73C2-42A9-93E6-B5C4DEE9C333}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{82349C40-0D08-47ED-B35D-7E3F814F05DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82349C40-0D08-47ED-B35D-7E3F814F05DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82349C40-0D08-47ED-B35D-7E3F814F05DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A0A019-73C2-42A9-93E6-B5C4DEE9C333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A0A019-73C2-42A9-93E6-B5C4DEE9C333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A0A019-73C2-42A9-93E6-B5C4DEE9C333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A0A019-73C2-42A9-93E6-B5C4DEE9C333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
